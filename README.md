@@ -14,6 +14,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 [1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2]: Your-LinkedIn-URL
+[2]: www.linkedin.com/in/yinon-kedem
 [3]: https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[4]: mailto:your.email@example.com
+[4]: mailto:yinonked@gmail.com
